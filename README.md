@@ -9,7 +9,7 @@ How It Works:
 1.	The program reads each row of data from the InputData.docx file.
 2.	Each row contains an x-coordinate, a character symbol, and a y-coordinate.
 3.	The program determines the largest x and y values to calculate the size of the grid.
-4.	A 2D array is created and initialized with blank spaces.
+4.	A 2D array is created and filled with blank spaces.
 5.	Each symbol is placed at its proper (x, y) coordinate in the grid.
 6.	The completed array is printed to the screen and reveals the block letters.
 
