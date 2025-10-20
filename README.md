@@ -3,7 +3,7 @@ Name:  Nicolette Skudrzik
 Course:  SDEV 140
 
 Overview:
-The program processes input data provided from the given file (InputData.csv). This document contains a table listing the x- and y-coordinates and a corresponding symbol for each. The program uses this data to create and display block annotated letters.
+The program processes input data provided from the given file (InputData.csv). This document contains a table listing the x- and y-coordinates and a corresponding character symbol for each. The program uses this data to create and display block annotated letters.
 
 How It Works:
 1.	The program reads each row of data from the InputData.docx file.
